@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
         }
     ]
-const GOOGLE_API_KEY="AIzaSyD1lu1Lh8a-WpPpwHgKTSju2FYkIaqYToc"
+const GOOGLE_API_KEY="(YOUR_API_KEY)"
     const Url=`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${GOOGLE_API_KEY}`
 
 
